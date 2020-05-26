@@ -1,4 +1,4 @@
-package cc.shinbi.pi;
+package pi;
 
 public class Pi {
 	public static void main(String[] args) {
